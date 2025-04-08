@@ -1,2 +1,2 @@
 # gnuradio_example
-Gnuradio project example used in courses
+Here you can find some examples of projects created with GNU Radio presented during the courses
